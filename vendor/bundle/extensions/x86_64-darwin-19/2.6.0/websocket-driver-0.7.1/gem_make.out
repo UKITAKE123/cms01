@@ -1,0 +1,15 @@
+current directory: /Users/ukita1022/Desktop/rails_app1/cms01/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+/Users/ukita1022/.rbenv/versions/2.6.4/bin/ruby -I /Users/ukita1022/.rbenv/versions/2.6.4/lib/ruby/2.6.0 -r ./siteconf20200412-68860-1m80mbf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ukita1022/Desktop/rails_app1/cms01/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/ukita1022/Desktop/rails_app1/cms01/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/ukita1022/Desktop/rails_app1/cms01/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20200412-68860-ktaof6

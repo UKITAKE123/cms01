@@ -1,0 +1,15 @@
+current directory: /Users/ukita1022/Desktop/rails_app1/cms01/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/ukita1022/.rbenv/versions/2.6.4/bin/ruby -I /Users/ukita1022/.rbenv/versions/2.6.4/lib/ruby/2.6.0 -r ./siteconf20200412-68860-6lbbg2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ukita1022/Desktop/rails_app1/cms01/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/ukita1022/Desktop/rails_app1/cms01/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/ukita1022/Desktop/rails_app1/cms01/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200412-68860-1yv6zk/bootsnap
