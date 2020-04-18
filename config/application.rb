@@ -16,6 +16,8 @@ module Cms01
       Dir[Rails.root.join('config', 'locales', '**', '*.{rb,yml}').to_s]
     config.i18n.default_locale = :ja
 
+    config.hosts << 'localhost'
+
     config.generators do |g|
       g.test_framework :rspec
     # Settings in config/environments/* take precedence over those specified here.

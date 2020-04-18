@@ -50,5 +50,5 @@ test:
 production:
   <<: *default
   database: cms01_production
-  username: cms01
-  password: <%= ENV['CMS01_DATABASE_PASSWORD'] %>
+  username: root
+  password: take1022
